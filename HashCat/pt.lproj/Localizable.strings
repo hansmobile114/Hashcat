@@ -1,0 +1,350 @@
+/* 
+  Localizable.strings
+  HashCat
+
+  Created by iOSDevStar on 8/3/15.
+  Copyright (c) 2015 iOSDevStar. All rights reserved.
+*/
+
+"cat_profile_sub_photo_amounts" = "fotos";
+
+"take_photo_toast_no_cat" = "Você precisa de um perfil de gato antes de postar fotos dele, certo?";
+"take_photo_toast_max_categories" = "Você pode selecionar somente 2 categorias";
+"take_photo_label_categories" = "Categorias:";
+"take_photo_button_post" = "Postar";
+"take_photo_label_posting_as" = "Postando como ";
+"take_photo_label_change" = " (troque clicando acima!)";
+
+"camera_label_capture_image" = "Tirar foto";
+"camera_label_select_video" = "Selecione o vídeo";
+"camera_label_select_image" = "Selecionar na Galeria";
+"camera_intent_canceled" = "Intenção de câmera foi cancelada";
+"camera_error_could_not_find_photo" = "Não foi possível encontrar um photoUri que é! = null";
+"camera_error_could_not_take_picture" = "Não podia tirar foto";
+"camera_photo_stored_under" = "Sua foto é armazenada sob:";
+"camera_sd_not_mounted" = "Cartão SD não montado";
+
+"game_category_title_pick_category" = "Escolha sua categoria";
+"game_main_dialog_title_report" = "Selecione quem relatar";
+"game_main_error_voting" = "Erro de computação seu voto!";
+"game_dialog_title_no_photos" = "Sem fotos";
+"game_dialog_content_no_photos" = "Opa! Não há fotos nesta categoria!";
+"game_dialog_positive_no_photos" = "OK! Tente outra categoria, por favor!";
+"game_dialog_positive_no_photos_back" = "OK! Vou selecionar outra categoria!";
+
+"feed_label_likes" = "curtidas";
+"feed_label_comments" = "comentários";
+"feed_dialog_title_report_photo" = "Relatar foto?";
+"feed_dialog_content_report" = "Esse conteúdo é impróprio?";
+"feed_dialog_title_reported" = "Foto relatada!";
+"feed_dialog_content_reported" = "Obrigado! Seu relato foi enviado.";
+"feed_toast_already_follow" = "Você já segue seus gatos, não?";
+"feed_toast_already_liked" = "Você já curte seus gatos, não?";
+"feed_toast_unfollowed" = "Deixar de seguir";
+"feed_toast_followed" = "Seguiu";
+
+"feed_remove_photo" = "Remover foto";
+"feed_dialog_title_remove_photo" = "Remover foto?";
+"feed_dialog_content_remove_photo" = "Você tem certeza mesmo que quer remover essa foto?";
+"feed_dialog_content_error_remove_photo" = "A foto não pôde ser removida!";
+"feed_dialog_title_error_remove_photo" = "Erro ao remover foto";
+"feed_photo_removed" = "Foto removida!";
+
+"feed_first_photo" = "Enviar a primeira foto do seu gato!";
+
+"comments_title" = "Comentários";
+"comment_remove_comment" = "Remover comentário";
+"comment_dialog_title_remove_comment" = "Remover comentário?";
+"comment_dialog_content_remove_comment" = "Você tem certeza mesmo que quer remover esse comentário?";
+"comment_dialog_content_error_remove_comment" = "O comentário não pôde ser removida!";
+"comment_dialog_title_error_remove_comment" = "Erro ao remover comentário";
+"comment_comment_removed" = "Comentário removido!";
+
+"comment_dialog_title_report_comment" = "Relatar comentário?";
+"comment_dialog_content_report" = "Esse conteúdo é impróprio?";
+"comment_dialog_title_reported" = "Comentário relatado!";
+"comment_dialog_title_not_reported" = "Não foi possível relatar!";
+"comment_dialog_content_reported" = "Obrigado! Seu relato foi enviado.";
+
+"profile_add_label_new" = "Adicionar";
+"profile_add_title_edit" = "Editar gato";
+"profile_add_button_create" = "Adicionar";
+"profile_add_title_create" = "Novo gato";
+"profile_add_button_edit" = "Editar";
+"profile_add_dialog_im_sure" = "Tenho certeza!";
+"profile_add_dialog_title_no_photo" = "Gato sem foto";
+"profile_add_dialog_select_breed" = "Selecione a raça";
+"profile_add_dialog_select_country" = "Selecione o país";
+"profile_add_dialog_content_no_photo" = "Tem certeza que deseja continuar sem a foto? Tente adicionar uma clicando no gato acima!";
+"profile_add_dialog_choose_one" = "Opa! Deixe-me escolher uma!";
+"profile_add_toast_username_exists" = "Uhm… parece que temos um gato com esse mesmo nome de usuário! Tente acrescentar algo ao seu nome de usuário!";
+
+"profile_error_load_profile" = "Erro ao carregar o gato. Este nome de usuário pode ter mudado ou não existe mais!";
+"profile_dialog_title_report_profile" = "Relatar perfil?";
+"profile_dialog_content_report" = "Esse conteúdo é impróprio?";
+"profile_dialog_title_reported" = "Perfil relatado!";
+"profile_dialog_title_not_reported" = "Não foi possível relatar!";
+"profile_dialog_content_reported" = "Obrigado! Seu relato foi enviado.";
+
+"create_or_choose_profile" = "Adicionar ou editar seu gato";
+"create_or_choose_profile_edit_profile" = "Editar gato";
+"create_or_choose_profile_remove_profile" = "Remover gato";
+"create_or_choose_profile_dialog_title_remove_profile" = "Remover gato?";
+"create_or_choose_profile_dialog_content_remove_profile" = "Você tem certeza absoluta que quer remover esse perfil? Todas as fotos e badges serão removidos…";
+"create_or_choose_profile_dialog_content_error_remove_profile" = "Perfil não pôde ser removido!";
+"create_or_choose_profile_dialog_title_error_remove_profile" = "Erro ao remover perfil";
+"create_or_choose_profile_profile_removed" = "Gato removido!";
+
+"signup_button_edit" = "Editar";
+"signup_button_signup" = "Inscrever";
+"signup_toast_error_loading_profile" = "Erro ao carregar o perfil de editar!";
+"signup_reminder" = "Atenção: esse é o SEU perfil, não do seu gato!";
+"signup_add_dialog_content_no_photo" = "Tem certeza que deseja continuar sem a sua foto? Tente adicionar uma clicando no avatar acima!";
+
+"signup_or_login_dialog_input_password" = "Sua senha";
+"signup_or_login_dialog_title_connect_facebook" = "Conecte ao Facebook!";
+"signup_or_login_toast_error_connect" = "Não foi possível te conectar!";
+"signup_or_login_toast_error_login" = "Argh… não foi possível logar você!";
+"signup_or_login_dialog_content_connect_facebook" = "Uhm… temos seu e-mail, mas não temos seu Facebook. Por favor, forneça a sua senha do hashcat para que possamos juntar essas informações com segurança!";
+
+"facebook_permission_not_granted" = "Não é possível executar a ação selecionada porque as permissões não foram concedidas.";
+"facebook_connect_label_connect" = "Clique abaixo para ligar a sua conta!";
+"facebook_connect" = "Conectar Facebook";
+"facebook_login_or_signup" = "Entrar ou Inscrever";
+
+"signup_dialog_title_no_photo" = "Usuário sem foto";
+"signup_dialog_title_gender" = "Selecionar sexo";
+
+"ranking_title_ranking_by_likes" = "Ranking por curtidas";
+"ranking_title_ranking_by_wins" = "Ranking por vitórias";
+"ranking_filter_title" = "Filtros do ranking";
+"ranking_filter_title_filters" = "Filtros";
+"ranking_filter_title_order" = "Ordem";
+"ranking_filter_age" = "Idade";
+"ranking_filter_breed" = "Raça";
+"ranking_filter_category" = "Categoria";
+"ranking_filter_country" = "País";
+"ranking_filter_button_filter" = "Filtro";
+"ranking_filter_more_likes" = "Por curtidas";
+"ranking_filter_more_wins" = "Por vitórias";
+"ranking_filter_filtered_by" = "Filtrados por:";
+"ranking_filter_dialog_title_select_age" = "Selecione a idade";
+"ranking_filter_dialog_title_select_category" = "Selecione a categoria";
+"ranking_label_month" = "mês";
+"ranking_label_months" = "meses";
+"ranking_label_of_wins" = "de vitórias";
+
+"badge_title_choose_badge_type" = "Escolha um tipo de medalha";
+"badge_latest_with_this" = "Últimos com essa medalha";
+
+"menu_button_play" = "Jogar!";
+"menu_button_rankings" = "Rankings";
+"menu_button_feed" = "Feed";
+
+"fab_feed" = "feed";
+"fab_profiles" = "meus gatos";
+"fab_notifications" = "notificações";
+"fab_search" = "busca";
+"fab_photo" = "postar foto";
+
+"followers_or_following_title_followers" = "seguidores";
+"followers_or_following_title_following" = "seguindo";
+
+"user_label_following" = "seguindo";
+"user_label_cats" = "gatos";
+"user_dialog_title_report_user" = "Relatar usuário?";
+"user_dialog_content_report" = "Esse conteúdo é impróprio?";
+"user_dialog_title_reported" = "Usuário relatado!";
+"user_dialog_title_not_reported" = "Não foi possível relatar!";
+"user_dialog_content_reported" = "Obrigado! Seu relato foi enviado.";
+
+"change_password_button_change" = "Mudar";
+"change_password_hint_new" = "Nova senha";
+"change_password_hint_confirmation" = "Confirmação da nova senha";
+"change_password_hint_old" = "Senha antiga";
+"change_password_toast_changed" = "Senha alterada!";
+"change_password_toast_not_changed" = "Oops, ocorreu um erro! Senha não mudada!";
+"change_password_toast_differs" = "Confirmação e a nova senha é diferente!";
+
+"no_user_dialog_content" = "Você tem que ter um usuário ou estar logado para acompanhar os gatos, curtir e tal!";
+"no_user_dialog_title" = "Nenhum usuário";
+"no_user_dialog_negative" = "Meh… Eu vou fazer isso mais tarde!";
+"no_user_dialog_positive" = "OK! Vamos fazê-lo!";
+
+"search_toast_no_query" = "Por favor digite alguma coisa antes de Pesquisar!";
+"search_photo_suggestions" = "Mostrando as últimas fotos curtidas por seus amigos!";
+"search_profile_suggestions" = "Mostrando os amigos de seus amigos!";
+"search_hint" = "Buscar";
+
+"share_message" = "Ei amantes de gatos, verifiquem este app: Hashcat! Vocês vão adorar! http://hashcat.com.br";
+"share_title" = "Espalhar o miau";
+
+"settings_my_profile" = "Meu perfil";
+"settings_about" = "Sobre";
+"settings_about_us" = "Quem somos";
+"settings_account" = "Conta";
+"settings_action_settings" = "Configurações";
+"settings_add_friends" = "Adicione amigos!";
+"settings_badges" = "Medalhas";
+"settings_change_password" = "Alterar senha";
+"settings_contact" = "Contato";
+"settings_contacts" = "Contatos";
+"settings_edit_user" = "Editar a minha informação";
+"settings_edit_profile" = "Editar meus gatos";
+"settings_find_friends" = "Encontrar amigos";
+"settings_friends" = "Amigos";
+"settings_invite_friends" = "Convidar amigos";
+"settings_licenses" = "Licenças de código aberto";
+"settings_link_facebook" = "Conta no Facebook";
+"settings_logout" = "Sair";
+"settings_my_cats_profiles" = "Meus gatos";
+"settings_notifications" = "Notificações";
+"settings_notifications_sound" = "Notificações com miau";
+"settings_notifications_sound_summary" = "Usar som de miau para as notificações";
+"settings_receive_notifications_action" = "Receber notificações de ações";
+"settings_save_to_gallery" = "Salvar minhas fotos na Galeria de";
+"settings_save_photos_taken" = "Salvar fotos tiradas em app para a Galeria";
+"settings_settings" = "Configurações";
+"settings_verde_apps" = "Apps de verde";
+"settings_version" = "Versão";
+"settings_feedback" = "Enviar sugestão";
+"settings_thanks" = "Agradecimentos!";
+"settings_help" = "Ajuda";
+
+"wizard_welcome_to_hashcat" = "Bem-vindo ao hashcat!";
+"wizard_label_welcome" = "Olá!\n\nVou te mostrar como o hashcat funciona, OK?\n\nArraste para começar!";
+
+"wizard_label_play_1" = "Oi!\n\nVou te mostrar como funciona o modo \"Jogar\"!";
+"wizard_label_play_2" = "Aqui você pode escolher uma categoria para jogar!\n\nA categoria é uma hashtag (hashcat?) que descreve a foto do gato!";
+"wizard_label_play_3" = "Ao selecionar, duas fotos sorteadas nessa categoria aparecerão!\n\nVocê pode clicar e votar na sua foto preferida!";
+"wizard_label_play_4" = "Depois de votar, duas novas fotos aparecerão!\n\nVocê poderá votar nelas e por aí vai :)…";
+"wizard_label_play_5" = "Você pode também ver ou seguir os perfis dos gatos!";
+"wizard_label_play_finish" = "\n\nLegal!\n\nUm simples jogo para você conhecer diversos gatos e rir bastante!\n";
+
+"wizard_label_ranking_1" = "Oi!\n\nVou te mostrar agora como funciona o modo \"Ranking\"!";
+"wizard_label_ranking_2" = "Aqui você verá os gatos mais votados e mais curtidos do modo \'Jogar\'!\n\nAs celebridades!";
+"wizard_label_ranking_3" = "Você pode até filtrar este ranking por raça, categoria, país e idade!\n\nTambém, você pode ordernar por curtidas ou vitórias!";
+"wizard_label_ranking_finish" = "\n\nLegal!\n\nAqui você conhecerá as melhores fotos e descobrirá vários gatinhos para seguir!\n";
+
+"wizard_label_feed_1" = "\n\nVamos ver como o modo \"Feed\" funciona?";
+"wizard_label_feed_2" = "É uma rede social!\n\nAqui você pode ver as atividades dos seus amigos. Você pode curtir, seguir, comentar, miar e tudo isso :)";
+"wizard_label_feed_3" = "No perfil do gato há todas as informações sobre ele, também medalhas que ele ganhou e tal!\n\nSim! Medalhas!";
+"wizard_label_feed_4" = "Envie fotos do seu gato!\n\nEle será famoso!";
+"wizard_label_feed_5" = "Veja as funcionalidades da rede clicando no botão \'+\'!";
+"wizard_label_feed_finish" = "\n\nLegal!\n\nFaça amigos, curta e divirta-se!\n";
+
+"wizard_got_it" = "Legal!";
+"skip_button" = "Pular";
+
+"dash" = "-";
+
+"loading" = "Carregando…";
+
+"cancel" = "Cancelar";
+"close" = "Fechar";
+"continue_string" = "Continuar";
+"description" = "Descrição";
+"follow" = "Seguir";
+"follow_all" = "Seguir todos";
+"edit" = "Editar";
+"login" = "Entrar";
+"no" = "Não";
+"photos" = "fotos";
+"badges" = "medalhas";
+"profiles" = "Gatos";
+"report" = "Relatar";
+"button_signup" = "Inscrever";
+"skip" = "Pular";
+"suggestions" = "Sugestões";
+"unfollow" = "Deixar de seguir";
+"yes" = "Sim";
+"country" = "país";
+"version" = "Versão ";
+
+"hint_birth" = "Nascimento";
+"hint_email" = "Email";
+"hint_gender" = "Sexo";
+"hint_password" = "Senha";
+"hint_name" = "Nome";
+"hint_username" = "\@username";
+
+"validation_wrong_password" = "Erro, verifique novamente sua senha!";
+"validation_fields_missing" = "Por favor, preencha todos os campos!";
+"validation_username_exists" = "Uhm… parece que temos um dono de gato com o mesmo username!";
+"validation_invalid_email" = "Uhm… esse não parece ser um email válido!";
+
+"error" = "Erro!";
+"oops_error" = "Opa! Erro!";
+
+"gender_male" = "Masculino";
+"gender_female" = "Feminino";
+"gender_other" = "Outro";
+"gender_prefer_not" = "Prefiro não dizer";
+
+"badge_type_pro" = "pro";
+"badge_type_supporting" = "apoiador";
+"badge_type_wins" = "vitórias";
+"badge_type_likes" = "curtidas";
+"badge_type_followers" = "seguidores";
+"badge_type_following" = "seguindo";
+"badge_type_ranking_position" = "posição no ranking";
+"badge_type_cabelo" = "cabelo";
+
+"authentication_expired" = "Sua autenticação expirou! Por favor, entre novamente!";
+
+"dialog_title" = "Avalie %@";
+"rate_message" = "Se você está gostando do hashcat, por favor nos avalie, é rapidinho! Se não está gostando, nos avise o porquê na seção \'Enviar sugestão\'. Obrigado pela ajuda!";
+"rate" = "Avaliar";
+"later" = "Mais tarde";
+"no_thanks" = "Não, obrigado";
+"email_activity_title" = "Enviar sugestão";
+
+"input_name_alert_title" = "Por favor, nome de entrada";
+"input_username_alert_title" = "Por favor, nome de usuário de entrada";
+"input_description_alert_title" = "Por favor, descrição de entrada";
+"input_email_alert_title" = "Por favor, endereço de e-mail de entrada";
+"input_valid_email_alert_title" = "Entrada Por favor, e-mail válido";
+"input_password_alert_title" = "Por favor senha de entrada";
+"input_correct_password_alert_title" = "Entrada Por favor senha correta";
+"input_correct_old_password_alert_title" = "Entrada Por favor senha antiga correta";
+"input_new_password_alert_title" = "Por favor, nova senha de entrada";
+"input_confirm_new_password_alert_title" = "Por favor, confirme a nova senha";
+"input_check_new_password_again_alert_title" = "Verifique nova senha novamente";
+"input_breed_alert_title" = "Por favor, escolha raça";
+"input_dob_alert_title" = "Por favor, escolha nascimento";
+"input_country_alert_title" = "Por favor escolher o país";
+"input_category_alert_title" = "Por favor, escolha a categoria";
+"input_age_alert_title" = "Por favor, escolha idade";
+"input_gender_alert_title" = "Por favor, escolha de gênero";
+"input_photo_alert_title" = "Por favor, escolha sua foto";
+
+"network_offline_alert_title" = "A conexão de rede parece estar offline!";
+"something_went_wrong" = "Algo deu errado!";
+"post_text_placeholder" = "Por favor, algo de entrada ...";
+"input_comment_alert_title" = "Por favor coloque comentário!";
+"upload_image_alert_title" = "Por favor, fazer upload de imagem";
+
+"input_old_password_alert_title" = "Por favor, inserir a senha antiga";
+"failed_follow_all_alert_title" = "Falha ao seguir todas as sugestões. Por favor tente mais tarde";
+"email_already_exist_alert_title" = "E-mail já existe, entrada Por favor, outro e-mail.";
+"username_already_exist_alert_title" = "Nome de usuário já existe, entrada Por favor outro nome de usuário.";
+
+"Pull to refresh..." = "Puxe para refrescar...";
+"Release to refresh..." = "Solte para refrescar...";
+
+"a few seconds ago" = "Alguns segundos atrás";
+"1 minute ago" = "1 minuto atrás";
+"minutes ago" = "minutos atrás";
+"1 hour ago" = "1 hora atrás";
+"hours ago" = "horas atrás";
+"1 day ago" = "1 dia atrás";
+"days ago" = "dias atrás";
+
+"category_overall" = "geral";
+"category_random" = "aleatório";
+
+"time_format" = "yyyy/MM/dd";
+
+"success_alert_string" = "Sucesso";
+"failure_alert_string" = "Erro";
+

@@ -1,0 +1,346 @@
+/*
+  Localizable.strings
+  HashCat
+
+  Created by iOSDevStar on 8/3/15.
+  Copyright (c) 2015 iOSDevStar. All rights reserved.
+*/
+"cat_profile_sub_photo_amounts" = "photos";
+
+"take_photo_toast_no_cat" = "You need a cat profile before you can post pictures of him, right?";
+"take_photo_toast_max_categories" = "You can select only 2 categories";
+"take_photo_label_categories" = "Categories:";
+"take_photo_button_post" = "Post";
+"take_photo_label_posting_as" = "Posting as ";
+"take_photo_label_change" = " (change clicking above!)";
+
+"camera_label_capture_image" = "Take Photo";
+"camera_label_select_video" = "Select Video";
+"camera_label_select_image" = "Select from Gallery";
+"camera_intent_canceled" = "Camera Intent was canceled";
+"camera_error_could_not_find_photo" = "Could not find a photoUri that is != null";
+"camera_error_could_not_take_picture" = "Could not take picture";
+"camera_photo_stored_under" = "Your photo is stored under:";
+"camera_sd_not_mounted" = "SD card not mounted";
+
+"game_category_title_pick_category" = "Pick your category";
+"game_main_dialog_title_report" = "Select who to report";
+"game_main_error_voting" = "Error computing your vote!";
+"game_dialog_title_no_photos" = "No photos";
+"game_dialog_content_no_photos" = "Oops! There no photos in this category!";
+"game_dialog_positive_no_photos" = "OK! Try another category, please!";
+"game_dialog_positive_no_photos_back" = "OK! I\'ll choose another category!";
+
+"feed_label_likes" = "likes";
+"feed_label_comments" = "comments";
+"feed_dialog_title_report_photo" = "Report photo?";
+"feed_dialog_content_report" = "Is this content inappropriate?";
+"feed_dialog_title_reported" = "Photo reported!";
+"feed_dialog_content_reported" = "Thanks! Your report were sent.";
+"feed_toast_already_follow" = "You already follow your cats, don\'t ya?";
+"feed_toast_already_liked" = "You already like your cats, don\'t ya?";
+"feed_toast_unfollowed" = "Unfollowed";
+"feed_toast_followed" = "Followed";
+
+"feed_remove_photo" = "Remove photo";
+"feed_dialog_title_remove_photo" = "Remove photo?";
+"feed_dialog_content_remove_photo" = "Are you really sure you want to remove this photo?";
+"feed_dialog_content_error_remove_photo" = "The photo could not be removed!";
+"feed_dialog_title_error_remove_photo" = "Error removing photo!";
+"feed_photo_removed" = "Photo removed!";
+
+"feed_first_photo" = "Send your cat\'s first photo!";
+
+"comments_title" = "Comments";
+"comment_remove_comment" = "Remove comment";
+"comment_dialog_title_remove_comment" = "Remove comment?";
+"comment_dialog_content_remove_comment" = "Are you really sure you want to remove this comment?";
+"comment_dialog_content_error_remove_comment" = "The comment could not be removed!";
+"comment_dialog_title_error_remove_comment" = "Error removing comment!";
+"comment_comment_removed" = "Comment removed!";
+
+"comment_dialog_title_report_comment" = "Report comment?";
+"comment_dialog_content_report" = "Is this content inappropriate?";
+"comment_dialog_title_reported" = "Comment reported!";
+"comment_dialog_title_not_reported" = "Cannot report!";
+"comment_dialog_content_reported" = "Thanks! Your report were sent.";
+
+"profile_add_label_new" = "Add";
+"profile_add_title_edit" = "Edit cat";
+"profile_add_button_create" = "Add";
+"profile_add_title_create" = "New cat";
+"profile_add_button_edit" = "Edit";
+"profile_add_dialog_im_sure" = "I\'m sure!";
+"profile_add_dialog_title_no_photo" = "Cat without photo";
+"profile_add_dialog_select_breed" = "Select breed";
+"profile_add_dialog_select_country" = "Select Country";
+"profile_add_dialog_content_no_photo" = "Are you sure you want to continue without your cat\'s photo?\nTry adding one clicking at the cat above!";
+"profile_add_dialog_choose_one" = "Oops! Let me choose one!";
+"profile_add_toast_username_exists" = "Uhm… sounds like we have a cat with that same username! Try adding something to his username!";
+
+"profile_error_load_profile" = "Error loading cat, this username may have changed or it doesn\'t exists anymore!";
+"profile_dialog_title_report_profile" = "Report profile?";
+"profile_dialog_content_report" = "Is this content inappropriate?";
+"profile_dialog_title_reported" = "Profile reported!";
+"profile_dialog_title_not_reported" = "Cannot report!";
+"profile_dialog_content_reported" = "Thanks! Your report were sent.";
+
+"create_or_choose_profile" = "Add or edit cat";
+"create_or_choose_profile_edit_profile" = "Edit cat profile";
+"create_or_choose_profile_remove_profile" = "Remove cat profile";
+"create_or_choose_profile_dialog_title_remove_profile" = "Remove cat profile?";
+"create_or_choose_profile_dialog_content_remove_profile" = "Are you really sure you want to remove this cat profile? All photos and stuff will be removed…";
+"create_or_choose_profile_dialog_content_error_remove_profile" = "The cat profile could not be removed!";
+"create_or_choose_profile_dialog_title_error_remove_profile" = "Error removing cat profile!";
+"create_or_choose_profile_profile_removed" = "Cat profile removed!";
+
+"signup_button_edit" = "Edit";
+"signup_button_signup" = "Signup";
+"signup_toast_error_loading_profile" = "Error loading profile to edit!";
+"signup_reminder" = "Heads up: this is YOUR profile, not your cats\'!";
+"signup_add_dialog_content_no_photo" = "Are you sure you want to continue without your photo?\nTry adding one clicking at the avatar above!";
+
+"signup_or_login_dialog_input_password" = "Your password";
+"signup_or_login_dialog_title_connect_facebook" = "Connect Facebook!";
+"signup_or_login_toast_error_connect" = "Can\'t connect you!";
+"signup_or_login_toast_error_login" = "Argh… can\'t log you in!";
+"signup_or_login_dialog_content_connect_facebook" = "Uhm… we have your email but doesn\'t have your Facebook.\nPlease provide your hashcat\'s password so we can join these infos securelly!";
+
+"facebook_permission_not_granted" = "Unable to perform selected action because permissions were not granted.";
+"facebook_connect_label_connect" = "Click below to link your account!";
+"facebook_connect" = "Facebook connect";
+"facebook_login_or_signup" = "Log in or Sign up";
+
+"signup_dialog_title_no_photo" = "User without photo";
+"signup_dialog_title_gender" = "Select gender";
+
+"ranking_title_ranking_by_likes" = "Ranking by likes";
+"ranking_title_ranking_by_wins" = "Ranking by wins";
+"ranking_filter_title" = "Ranking filter";
+"ranking_filter_title_filters" = "Filters";
+"ranking_filter_title_order" = "Order";
+"ranking_filter_age" = "Age";
+"ranking_filter_breed" = "Breed";
+"ranking_filter_category" = "Category";
+"ranking_filter_country" = "Country";
+"ranking_filter_button_filter" = "Filter";
+"ranking_filter_more_likes" = "More likes";
+"ranking_filter_more_wins" = "More wins";
+"ranking_filter_filtered_by" = "Filtered by;";
+"ranking_filter_dialog_title_select_age" = "Select Age";
+"ranking_filter_dialog_title_select_category" = "Select category";
+"ranking_label_month" = "month";
+"ranking_label_months" = "months";
+"ranking_label_of_wins" = "of wins";
+
+"badge_title_choose_badge_type" = "Choose a badge type";
+"badge_latest_with_this" = "Latest with this badge";
+
+"menu_button_play" = "Play!";
+"menu_button_rankings" = "Rankings";
+"menu_button_feed" = "Feed";
+
+"fab_feed" = "feed";
+"fab_profiles" = "my cats";
+"fab_notifications" = "notifications";
+"fab_search" = "search";
+"fab_photo" = "post photo";
+
+"followers_or_following_title_followers" = "followers";
+"followers_or_following_title_following" = "following";
+
+"user_label_following" = "following";
+"user_label_cats" = "cats";
+"user_dialog_title_report_user" = "Report user?";
+"user_dialog_content_report" = "Is this content inappropriate?";
+"user_dialog_title_reported" = "User reported!";
+"user_dialog_title_not_reported" = "Cannot report!";
+"user_dialog_content_reported" = "Thanks! Your report were sent.";
+
+"change_password_button_change" = "Change";
+"change_password_hint_new" = "New password";
+"change_password_hint_confirmation" = "New password confirmation";
+"change_password_hint_old" = "Old password";
+"change_password_toast_changed" = "Password changed!";
+"change_password_toast_not_changed" = "Oops, some error occurred! Password not changed!";
+"change_password_toast_differs" = "New password and confirmation differs!";
+
+"no_user_dialog_content" = "You gotta have an user or be logged in to follow cats and like \'em and such!";
+"no_user_dialog_title" = "No user";
+"no_user_dialog_negative" = "Meh… I\'ll do it later!";
+"no_user_dialog_positive" = "OK! Let\'s do it!";
+
+"search_toast_no_query" = "Please type something before searching!";
+"search_photo_suggestions" = "Showing last liked photos from your friends!";
+"search_profile_suggestions" = "Showing your friends\' friends!";
+"search_hint" = "Search";
+
+"share_message" = "Cat lovers, check this Hashcat app! You\'ll love it! http://hashcat-app.com";
+"share_title" = "Spread the meow";
+
+"settings_my_profile" = "My Profile";
+"settings_about" = "About";
+"settings_about_us" = "About Us";
+"settings_account" = "Account";
+"settings_action_settings" = "Settings";
+"settings_add_friends" = "Add friends!";
+"settings_badges" = "Badges";
+"settings_change_password" = "Change Password";
+"settings_contact" = "Contact";
+"settings_contacts" = "Contacts";
+"settings_edit_user" = "Edit my info";
+"settings_edit_profile" = "Edit my cats";
+"settings_find_friends" = "Find friends";
+"settings_friends" = "Friends";
+"settings_invite_friends" = "Invite friends";
+"settings_licenses" = "Open Source Licenses";
+"settings_link_facebook" = "Facebook Account";
+"settings_logout" = "Logout";
+"settings_my_cats_profiles" = "My Cats";
+"settings_notifications" = "Notifications";
+"settings_notifications_sound" = "Notifications meow";
+"settings_notifications_sound_summary" = "Use meow sound for notifications";
+"settings_receive_notifications_action" = "Receive notifications from actions";
+"settings_save_to_gallery" = "Save my photos to gallery";
+"settings_save_photos_taken" = "Save photos taken in app to gallery";
+"settings_settings" = "Settings";
+"settings_verde_apps" = "Verde Apps";
+"settings_version" = "Version";
+"settings_feedback" = "Send feedback";
+"settings_thanks" = "Thanks!";
+"settings_help" = "Help";
+
+"wizard_welcome_to_hashcat" = "Welcome to hashcat!";
+"wizard_label_welcome" = "Hi there!\n\nI\'ll show you how hashcat works, OK?\n\nDrag to start!";
+
+"wizard_label_play_1" = "Hi!\n\nI\'ll show you how hashcat\'s \"Play\" mode works!";
+"wizard_label_play_2" = "Here you can choose a category to play!\n\nA category is a hashtag (hashcat?) that describes the cat photo!";
+"wizard_label_play_3" = "After selecting, two random photos in that category will appear!\n\nYou can click and vote on your preferred photo!";
+"wizard_label_play_4" = "After voting, a new set of photos will appear!\n\nYou can vote for this new set and so on :)…";
+"wizard_label_play_5" = "Here you can also see or follow cats\' profiles!";
+"wizard_label_play_finish" = "\n\nCool!\n\nA simple game to know a lot of cats and have a great laugh!\n";
+
+"wizard_label_ranking_1" = "Hi!\n\nI\'ll show you how the \"Ranking\" mode works now!";
+"wizard_label_ranking_2" = "Here you will see the most voted and most liked cats from \"Play\" mode!\n\nThe celebrities!";
+"wizard_label_ranking_3" = "You can even filter this ranking by breed, category, country and age!\n\nAlso, you can order by likes or wins!";
+"wizard_label_ranking_finish" = "\n\nCool!\n\nHere you\'ll find the best photos and will discover a lot of cats!\n";
+
+"wizard_label_feed_1" = "\n\nLet\'s see how \"Feed\" mode works?";
+"wizard_label_feed_2" = "It\'s a social network!\n\nHere you can see your friends\' activities. You can like, follow, comment, meow and all that :)";
+"wizard_label_feed_3" = "The cat\'s profile has all information about the cat, also badges he earned and such!\n\nYeah! Badges!";
+"wizard_label_feed_4" = "Post photos of your cat!\n\nHe\'ll be famous!";
+"wizard_label_feed_5" = "See all features of the feed clicking on the \'+\' button!";
+"wizard_label_feed_finish" = "\n\nCool!\n\nMake friends and have fun!\n";
+
+"wizard_got_it" = "Got it!";
+"skip_button" = "Skip";
+"dash" = "-";
+"ok" = "Ok";
+"loading" = "Loading...";
+"cancel" = "Cancel";
+"close" = "Close";
+"continue_string" = "Continue";
+"description" = "Description";
+"follow" = "Follow";
+"follow_all" = "Follow all";
+"edit" = "Edit";
+"login" = "Login";
+"no" = "No";
+"photos" = "photos";
+"badges" = "badges";
+"profiles" = "Cats";
+"report" = "Report";
+"button_signup" = "Signup";
+"skip" = "Skip";
+"suggestions" = "Suggestions";
+"unfollow" = "Unfollow";
+"yes" = "Yes";
+"country" = "country";
+"version" = "Version ";
+
+"hint_birth" = "Birth";
+"hint_email" = "Email";
+"hint_gender" = "Gender";
+"hint_password" = "Password";
+"hint_name" = "Name";
+"hint_username" = "\@Username";
+
+"validation_wrong_password" = "Error, you should check again your password!";
+"validation_fields_missing" = "Please fill all the fields!";
+"validation_username_exists" = "Uhm… sounds like we have a cat owner with that same username!";
+"validation_invalid_email" = "Uhm… that doesn\'t seem to be a valid email!";
+
+"error" = "Error!";
+"oops_error" = "Oops! Error!";
+
+"gender_male" = "Male";
+"gender_female" = "Female";
+"gender_other" = "Other";
+"gender_prefer_not" = "Prefer not to say";
+
+"badge_type_pro" = "pro";
+"badge_type_supporting" = "supporting";
+"badge_type_wins" = "wins";
+"badge_type_likes" = "likes";
+"badge_type_followers" = "followers";
+"badge_type_following" = "following";
+"badge_type_ranking_position" = "ranking position";
+"badge_type_cabelo" = "cabelo";
+
+"authentication_expired" = "Your authentication expired! Please log in again!";
+
+"dialog_title" = "Please rate %@";
+"rate_message" = "If you enjoy hashcat, please take a moment to rate it! If not, let us know why in the \'Send feedback\' section! Thanks for your support!";
+"rate" = "Rate";
+"later" = "Later";
+"no_thanks" = "No thanks";
+"email_activity_title" = "Send feedback";
+
+"input_name_alert_title" = "Please input name";
+"input_username_alert_title" = "Please input username";
+"input_description_alert_title" = "Please input description";
+"input_email_alert_title" = "Please input email address";
+"input_valid_email_alert_title" = "Please input valid email address";
+"input_password_alert_title" = "Please input password";
+"input_correct_password_alert_title" = "Please input correct password";
+"input_correct_old_password_alert_title" = "Please input correct old password";
+"input_new_password_alert_title" = "Please input new password";
+"input_confirm_new_password_alert_title" = "Please confirm new password";
+"input_check_new_password_again_alert_title" = "Please check new password again";
+"input_breed_alert_title" = "Please choose breed";
+"input_dob_alert_title" = "Please choose birth";
+"input_country_alert_title" = "Please choose country";
+"input_category_alert_title" = "Please choose category";
+"input_age_alert_title" = "Please choose age";
+"input_gender_alert_title" = "Please choose gender";
+"input_photo_alert_title" = "Please choose your photo";
+
+"network_offline_alert_title" = "The Network connection appears to be offline!";
+"something_went_wrong" = "Something went wrong!";
+"post_text_placeholder" = "Please input something...";
+"input_comment_alert_title" = "Please input comment!";
+"upload_image_alert_title" = "Please upload image";
+
+"input_old_password_alert_title" = "Please input old password";
+"failed_follow_all_alert_title" = "Failed to follow all suggestions. Please try later";
+"email_already_exist_alert_title" = "Email already exists, Please input another email.";
+"username_already_exist_alert_title" = "Username already exists, Please input another username.";
+
+"Pull to refresh..." = "Pull to refresh...";
+"Release to refresh..." = "Release to refresh...";
+
+"a few seconds ago" = "a few seconds ago";
+"1 minute ago" = "1 minute ago";
+"minutes ago" = "minutes ago";
+"1 hour ago" = "1 hour ago";
+"hours ago" = "hours ago";
+"1 day ago" = "1 day ago";
+"days ago" = "days ago";
+
+"category_overall" = "overall";
+"category_random" = "random";
+
+"time_format" = "yyyy-MM-dd";
+
+"success_alert_string" = "Success";
+"failure_alert_string" = "Failure";

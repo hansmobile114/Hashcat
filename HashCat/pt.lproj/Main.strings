@@ -1,0 +1,243 @@
+
+/* Class = "UILabel"; text = "Henry Howards"; ObjectID = "09F-Wc-LcE"; */
+"09F-Wc-LcE.text" = "Henry Howards";
+
+/* Class = "UILabel"; text = "Yesterday"; ObjectID = "0sl-ud-4bU"; */
+"0sl-ud-4bU.text" = "Yesterday";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "23d-7v-nWz"; */
+"23d-7v-nWz.title" = "Feito";
+
+/* Class = "UILabel"; text = "   Ranking filter"; ObjectID = "3Ax-xi-geQ"; */
+"3Ax-xi-geQ.text" = "   Filtros do ranking";
+
+/* Class = "UILabel"; text = "following"; ObjectID = "3f6-jb-MCI"; */
+"3f6-jb-MCI.text" = "seguindo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3u3-qY-Zph"; */
+"3u3-qY-Zph.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "4Zl-vX-PRk"; */
+"4Zl-vX-PRk.normalTitle" = "Continuar";
+
+/* Class = "UIBarButtonItem"; title = "Please choose"; ObjectID = "5Be-Ce-OxK"; */
+"5Be-Ce-OxK.title" = "Por favor escolha";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "5C5-ve-3FW"; */
+"5C5-ve-3FW.text" = "Idade";
+
+/* Class = "UILabel"; text = "Badge Info"; ObjectID = "5rX-rT-Cqk"; */
+"5rX-rT-Cqk.text" = "Medalha Informações";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "6Dw-oH-zEo"; */
+"6Dw-oH-zEo.normalTitle" = "Entrar";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "8lU-BH-Ume"; */
+"8lU-BH-Ume.text" = "Seguindo";
+
+/* Class = "UIButton"; normalTitle = "Filter"; ObjectID = "99V-W1-mD8"; */
+"99V-W1-mD8.normalTitle" = "Filtro";
+
+/* Class = "UILabel"; text = "What a beautiful day!"; ObjectID = "AkY-rJ-GDO"; */
+"AkY-rJ-GDO.text" = "What a beautiful day!";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "B6J-uo-f3g"; */
+"B6J-uo-f3g.normalTitle" = "Pular";
+
+/* Class = "UIButton"; normalTitle = "Follow all"; ObjectID = "B7C-q9-v2L"; */
+"B7C-q9-v2L.normalTitle" = "Seguir todos";
+
+/* Class = "UILabel"; text = "Save photos taken in app to gallery"; ObjectID = "DGX-YO-dIl"; */
+"DGX-YO-dIl.text" = "Salvar fotos tiradas em app para a Galeria";
+
+/* Class = "UILabel"; text = "Heads up : this is YOUR profile, not your cats'!"; ObjectID = "DUX-AX-YId"; */
+"DUX-AX-YId.text" = "Atenção: esse é o SEU perfil, não do seu gato!";
+
+/* Class = "UIButton"; normalTitle = "Rankings"; ObjectID = "DXu-S4-HFx"; */
+"DXu-S4-HFx.normalTitle" = "Rankings";
+
+/* Class = "UITextField"; placeholder = "New password confirmation"; ObjectID = "DaW-Vq-Qjd"; */
+"DaW-Vq-Qjd.placeholder" = "Confirmação da nova senha";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "E6l-WL-TSt"; */
+"E6l-WL-TSt.normalTitle" = "Fechar";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Eur-e6-KL5"; */
+"Eur-e6-KL5.placeholder" = "Senha";
+
+/* Class = "UITextField"; placeholder = "Birth"; ObjectID = "F1G-cs-kOv"; */
+"F1G-cs-kOv.placeholder" = "Nascimento";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "F4e-cx-eXJ"; */
+"F4e-cx-eXJ.placeholder" = "Nova senha";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "FRE-QV-1uI"; */
+"FRE-QV-1uI.normalTitle" = "Editar";
+
+/* Class = "UITextField"; placeholder = "Breed"; ObjectID = "FXb-9j-3m6"; */
+"FXb-9j-3m6.placeholder" = "Raça";
+
+/* Class = "UIBarButtonItem"; title = "Please choose"; ObjectID = "FnQ-nq-S5h"; */
+"FnQ-nq-S5h.title" = "Por favor escolha";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "GMq-Vz-Am6"; */
+"GMq-Vz-Am6.placeholder" = "Descrição";
+
+/* Class = "UIBarButtonItem"; title = "Please choose"; ObjectID = "GaE-O0-SwH"; */
+"GaE-O0-SwH.title" = "Por favor escolha";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "JRl-YN-qg1"; */
+"JRl-YN-qg1.placeholder" = "Nome";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "JW4-5f-OHh"; */
+"JW4-5f-OHh.placeholder" = "Sexo";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "KZy-JG-us3"; */
+"KZy-JG-us3.normalTitle" = "Editar";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "Knw-Av-egT"; */
+"Knw-Av-egT.text" = "Categoria";
+
+/* Class = "UIButton"; normalTitle = "   Log in or Sign up"; ObjectID = "NtD-8R-R2c"; */
+"NtD-8R-R2c.normalTitle" = "   Entrar ou Inscrever";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "OHe-1V-3Bj"; */
+"OHe-1V-3Bj.normalTitle" = "Entrar";
+
+/* Class = "UITextField"; placeholder = "@Username"; ObjectID = "ONP-fP-d6n"; */
+"ONP-fP-d6n.placeholder" = "@username";
+
+/* Class = "UILabel"; text = "   Order"; ObjectID = "PST-ug-anN"; */
+"PST-ug-anN.text" = "   Ordem";
+
+/* Class = "UILabel"; text = "Latest with this"; ObjectID = "PlS-i7-nbO"; */
+"PlS-i7-nbO.text" = "Últimos com essa medalha";
+
+/* Class = "UILabel"; text = "Categories:"; ObjectID = "Q9i-vG-aqo"; */
+"Q9i-vG-aqo.text" = "Categorias:";
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "QAQ-yM-EuB"; */
+"QAQ-yM-EuB.normalTitle" = "Inscrever";
+
+/* Class = "UITextField"; placeholder = "Old password"; ObjectID = "RhK-cA-JZm"; */
+"RhK-cA-JZm.placeholder" = "Senha antiga";
+
+/* Class = "UILabel"; text = "Likes"; ObjectID = "SXN-lf-CHC"; */
+"SXN-lf-CHC.text" = "Curtidas";
+
+/* Class = "UILabel"; text = "More likes"; ObjectID = "Sgl-Oa-7R3"; */
+"Sgl-Oa-7R3.text" = "Por curtidas";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TGs-jn-xha"; */
+"TGs-jn-xha.title" = "Feito";
+
+/* Class = "UILabel"; text = "Badge explanation"; ObjectID = "V38-9O-Sxt"; */
+"V38-9O-Sxt.text" = "Explicação Medalhas";
+
+/* Class = "UILabel"; text = "Click below to link your account!"; ObjectID = "Ws5-Ae-moI"; */
+"Ws5-Ae-moI.text" = "Clique abaixo para ligar a sua conta!";
+
+/* Class = "UILabel"; text = "Wins"; ObjectID = "Xlo-99-3dE"; */
+"Xlo-99-3dE.text" = "Vitórias";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "ZSK-dp-gOB"; */
+"ZSK-dp-gOB.normalTitle" = "Adicionar";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "a2C-l3-GON"; */
+"a2C-l3-GON.text" = "País";
+
+/* Class = "UILabel"; text = "Filtered by:"; ObjectID = "aFj-JK-KgY"; */
+"aFj-JK-KgY.text" = "Filtrados por:";
+
+/* Class = "UILabel"; text = "   Filters"; ObjectID = "afq-kI-ych"; */
+"afq-kI-ych.text" = "   Filtros";
+
+/* Class = "UILabel"; text = "@QingCat"; ObjectID = "bVc-bh-ZVp"; */
+"bVc-bh-ZVp.text" = "@QingCat";
+
+/* Class = "UILabel"; text = "More wins"; ObjectID = "cEG-6Q-YGB"; */
+"cEG-6Q-YGB.text" = "Por vitórias";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "cnZ-KA-sdK"; */
+"cnZ-KA-sdK.normalTitle" = "Postar";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "dKB-Gw-IGS"; */
+"dKB-Gw-IGS.placeholder" = "Senha";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dP1-Ew-ptl"; */
+"dP1-Ew-ptl.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dv1-5d-4ae"; */
+"dv1-5d-4ae.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "feS-Aq-7QI"; */
+"feS-Aq-7QI.normalTitle" = "Cancelar";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "gTt-89-C4A"; */
+"gTt-89-C4A.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Birth"; ObjectID = "ge4-wC-Fry"; */
+"ge4-wC-Fry.placeholder" = "Nascimento";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "goT-6T-e6r"; */
+"goT-6T-e6r.normalTitle" = "Mudar";
+
+/* Class = "UIButton"; normalTitle = "Connect Facebook"; ObjectID = "j7r-LF-FhA"; */
+"j7r-LF-FhA.normalTitle" = "Conecte ao Facebook";
+
+/* Class = "UIBarButtonItem"; title = "Please choose profile"; ObjectID = "jMp-QK-I6H"; */
+"jMp-QK-I6H.title" = "Por favor, escolha gato";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "jXu-c2-5vE"; */
+"jXu-c2-5vE.title" = "Feito";
+
+/* Class = "UILabel"; text = "Badge Info"; ObjectID = "kQ5-ig-QpS"; */
+"kQ5-ig-QpS.text" = "Badge Info";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "lFu-cN-nMp"; */
+"lFu-cN-nMp.title" = "Feito";
+
+/* Class = "UIButton"; normalTitle = "Play!"; ObjectID = "lJo-IR-6EG"; */
+"lJo-IR-6EG.normalTitle" = "Jogar!";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "mQG-r8-Muz"; */
+"mQG-r8-Muz.text" = "0";
+
+/* Class = "UITextField"; placeholder = "@Username"; ObjectID = "nsW-QX-mH6"; */
+"nsW-QX-mH6.placeholder" = "@username";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "pUC-tA-F5l"; */
+"pUC-tA-F5l.text" = "Seguidores";
+
+/* Class = "UILabel"; text = "5 min ago"; ObjectID = "pb8-E5-EE2"; */
+"pb8-E5-EE2.text" = "5 min ago";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "r4a-TL-uAF"; */
+"r4a-TL-uAF.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "r6y-0h-KKc"; */
+"r6y-0h-KKc.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Breed"; ObjectID = "r9k-eg-nMw"; */
+"r9k-eg-nMw.text" = "Raça";
+
+/* Class = "UIButton"; normalTitle = "Feed"; ObjectID = "ty4-rO-HLL"; */
+"ty4-rO-HLL.normalTitle" = "Feed";
+
+/* Class = "UILabel"; text = "Yesterday"; ObjectID = "vNa-hN-6lZ"; */
+"vNa-hN-6lZ.text" = "Yesterday";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "vsR-iE-kuO"; */
+"vsR-iE-kuO.placeholder" = "País";
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "xre-c1-Dja"; */
+"xre-c1-Dja.normalTitle" = "Inscrever";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yEh-zU-lhM"; */
+"yEh-zU-lhM.text" = "Label";
+
+/* Class = "UILabel"; text = "cats"; ObjectID = "z0W-me-rr1"; */
+"z0W-me-rr1.text" = "Gatos";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "zcw-aB-lCy"; */
+"zcw-aB-lCy.normalTitle" = "Relatar";
